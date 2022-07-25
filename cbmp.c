@@ -20,7 +20,7 @@
 #define HEIGHT_BYTES 4
 #define HEIGHT_OFFSET 22
 
-#define DEPTH_BYTES 2
+#define DEPTH_BYTES 4
 #define DEPTH_OFFSET 28
 
 // Private function declarations
